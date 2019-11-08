@@ -32,7 +32,6 @@ body{
 #mediumbox{
   height: 140px;
   width: 100px;
-  background-color: green;
 }
 #divider2{
   height: 10px;
@@ -68,17 +67,10 @@ body{
   height: 10px;
   width: 20px;
 }
-#bigbox{
-  height: 290px;
-  width: 290px;
-}
-#mediumbox{
-  height: 140px;
-  width: 100px;
-}
 #smallbox{
   height: 100px;
   width: 100px;
+  background-color: blue;
 }
 #bottombox{
   height: 100px;
@@ -87,4 +79,5 @@ body{
 #minibox{
   height: 45px;
   width: 20px;
+  background-color: yellow;
 }
